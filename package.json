@@ -151,5 +151,6 @@
     "randombytes": "^2.1.0",
     "toml": "^3.0.0",
     "urijs": "^1.19.1"
-  }
+  },
+  "packageManager": "yarn@1.22.19"
 }
